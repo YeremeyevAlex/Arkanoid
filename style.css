@@ -1,0 +1,3 @@
+body { background: silver; display: flex;}
+#game { margin: auto; box-shadow: 0 0 10px #000; position: relative; }
+#game > div { position: absolute; }
